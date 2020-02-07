@@ -3,7 +3,7 @@
 Naloga je nastala kot pomoč študentu menedžmenta na koperski fakulteti pri diplomski nalogi.
 Ideja diplomske naloge je vzpostaviti nov inovativen nacrt pobiranja rabljenih pnevmatik na območju Slovenije.
 
-Nalogo sem začel z podatki o vseh vulkanizerjih/servisih, ki jih je študent dobil iz eipesa ter podatki o zbirnih centrih podjetja slopak d.o.o.
+Nalogo sem začel z podatki o vseh vulkanizerjih/servisih, ki jih je študent dobil iz ajpesa ter podatki o zbirnih centrih podjetja slopak d.o.o.
 
 Podatki so vsebovali imena, naslove, poštne številke ter delno regije
 
