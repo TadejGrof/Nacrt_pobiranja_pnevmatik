@@ -1,0 +1,3562 @@
+[
+    {
+        "ime": "AMI - GT D.O.O.",
+        "ulica": "Ulica Mirka Pirca 1",
+        "mesto": "Sežana",
+        "posta": "6210 Sežana",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOLAZAR, LIČARSTVO IN DRUGE STORITVE D.O.O.",
+        "ulica": "Vanganel 30 A",
+        "mesto": "Vanganel",
+        "posta": "6000 Koper - Capodistria",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS VULTES ALEŠ BRNE S.P.",
+        "ulica": "Križ 238",
+        "mesto": "Križ",
+        "posta": "6210 Sežana",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AXLE D.O.O.",
+        "ulica": "Kolodvorska cesta 7",
+        "mesto": "Koper - Capodistria",
+        "posta": "6000 Koper - Capodistria",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "OBALA CENTER VULKANIZERSTVO, FRANKO RAŽMAN S.P.",
+        "ulica": "Dolinska cesta 1 B",
+        "mesto": "Koper - Capodistria",
+        "posta": "6000 Koper - Capodistria",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SODA MATJAŽ SODRŽNIK S.P.",
+        "ulica": "Industrijska cesta 4 F",
+        "mesto": "Izola - Isola",
+        "posta": "6310 Izola - Isola",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "STARC DORJAN S.P.",
+        "ulica": "Istrska ulica 30",
+        "mesto": "Kozina",
+        "posta": "6240 Kozina",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SUNSIDE TUNING ALEŠ VEŽNAVER S.P.",
+        "ulica": "Šmarje 61",
+        "mesto": "Šmarje",
+        "posta": "6274 Šmarje",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "T & P CARS, PROIZVODNO PODJETJE, D.O.O.,",
+        "ulica": "Povžane 1",
+        "mesto": "Povžane",
+        "posta": "6242 Materija",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TAGROS D.O.O.",
+        "ulica": "Vojkovo nabrežje 38",
+        "mesto": "Koper - Capodistria",
+        "posta": "6000 Koper - Capodistria",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZACIJA ALEŠ HRVATIČ S.P.",
+        "ulica": "Partizanska cesta 71 E",
+        "mesto": "Sežana",
+        "posta": "6210 Sežana",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO VZDRŽEVANJE IN IZPOSOJA VOZIL VOLČIČ IGOR S.P.",
+        "ulica": "Komen 50",
+        "mesto": "Komen",
+        "posta": "6223 Komen",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GUME TEK VULKANIZERSTVO MARIN BRAKOVIĆ S.P.",
+        "ulica": "Ulica 15. maja 10 B",
+        "mesto": "Koper - Capodistria",
+        "posta": "6000 Koper - Capodistria",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO, PREVOZNIŠTVO IN PAKIRANJE ROJC BOŠTJAN S.P.",
+        "ulica": "Obrov 8",
+        "mesto": "Obrov",
+        "posta": "6243 Obrov",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOVLEKA IN POPRAVILA MARTIN ŠTUCIN S.P.",
+        "ulica": "Goriška cesta 6 F",
+        "mesto": "Vipava",
+        "posta": "5271 Vipava",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "A.Z.M. AVTOMEHANIKA MATJAŽ ZAGOREC S.P.",
+        "ulica": "Grgar 65 G",
+        "mesto": "Grgar",
+        "posta": "5251 Grgar",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOELEKTRIKA BOŽIČ D.O.O.",
+        "ulica": "Lokavška cesta 11",
+        "mesto": "Ajdovščina",
+        "posta": "5270 Ajdovščina",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOKLEPARSTVO AVTOLIČARSTVO AVTOMEHANIKA MATJAŽ ŠVAGELJ S.P.",
+        "ulica": "Branik 111",
+        "mesto": "Branik",
+        "posta": "5295 Branik",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOKLEPARSTVO MIRAN FABJAN S.P.",
+        "ulica": "Budanje 3 J",
+        "mesto": "Budanje",
+        "posta": "5271 Vipava",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA VITEZ - BORUT VITEZ S.P.",
+        "ulica": "Vrtojbenska cesta 14",
+        "mesto": "Šempeter pri Gorici",
+        "posta": "5290 Šempeter pri Gorici",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS KOBAL BORUT KOBAL S.P.",
+        "ulica": "Goriška cesta 74",
+        "mesto": "Ajdovščina",
+        "posta": "5270 Ajdovščina",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS, MEHANIČNA DELA IN VULKANIZERSTVO - DANJEL ŽIŽMOND S.P.",
+        "ulica": "Ozeljan 24",
+        "mesto": "Ozeljan",
+        "posta": "5261 Šempas",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSPORT D.O.O.",
+        "ulica": "Sedejeva ulica 1",
+        "mesto": "Nova Gorica",
+        "posta": "5000 Nova Gorica",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOUSLUGE DANILO SEDEJ S.P.",
+        "ulica": "Poče 7 A",
+        "mesto": "Poče",
+        "posta": "5282 Cerkno",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "COTIČ SEBASTJAN S.P.",
+        "ulica": "Industrijska cesta 5",
+        "mesto": "Kromberk",
+        "posta": "5000 Nova Gorica",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GOLOB STORITVE SIMON GOLOB S.P.",
+        "ulica": "Goriška cesta 6",
+        "mesto": "Vipava",
+        "posta": "5271 Vipava",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MORATTO PNEWS CENTER D.O.O.",
+        "ulica": "Zatolmin 1 C",
+        "mesto": "Zatolmin",
+        "posta": "5220 Tolmin",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "OPTIKA IN VULKANIZERSTVO IGOR ŽBOGAR S.P.",
+        "ulica": "Industrijska cesta 9",
+        "mesto": "Kromberk",
+        "posta": "5000 Nova Gorica",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SERVIS PNEVMATIK MATJAŽ LEBAN S.P.",
+        "ulica": "Vojkova ulica 10",
+        "mesto": "Tolmin",
+        "posta": "5220 Tolmin",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ŠTRANCAR ALEŠ S.P.",
+        "ulica": "Ulica Quiliano 3",
+        "mesto": "Ajdovščina",
+        "posta": "5270 Ajdovščina",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VODOPIVEC TRGOVINA, TRGOVINA IN SERVISIRANJE D.O.O.",
+        "ulica": "Cesta Goriške fronte 85 A",
+        "mesto": "Šempeter pri Gorici",
+        "posta": "5290 Šempeter pri Gorici",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO - OPTIČNE MERITVE MARKO KORUZA S.P.",
+        "ulica": "Župančičeva ulica 1 A",
+        "mesto": "Ajdovščina",
+        "posta": "5270 Ajdovščina",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO MARKO VALENTINČIČ S.P.",
+        "ulica": "Vojkova ulica 12",
+        "mesto": "Tolmin",
+        "posta": "5220 Tolmin",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO ŠMIT D.O.O.",
+        "ulica": "Slovenska cesta 41",
+        "mesto": "Spodnja Idrija",
+        "posta": "5281 Spodnja Idrija",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULMEX VULKANIZERSTVO PETER PRIMOŽIČ S.P.",
+        "ulica": "Cvetkova cesta 37",
+        "mesto": "Cerkno",
+        "posta": "5282 Cerkno",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "EKOSAL TRGOVINA, INŽENIRING IN ZASTOPANJE D.O.O.SERVIS",
+        "ulica": "Cesta 25. junija 1 F",
+        "mesto": "Kromberk",
+        "posta": "5000 Nova Gorica",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MEHANIKA MAŠERA, MEHANIKA IN TRGOVINA D.O.O.",
+        "ulica": "Livek 11 D",
+        "mesto": "Livek",
+        "posta": "5222 Kobarid",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VEMOIL SERVISIRANJE VOZIL D.O.O.",
+        "ulica": "Podgozd 16",
+        "mesto": "Podgozd",
+        "posta": "5252 Trnovo pri Gorici",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO IN KOVINARSTVO DEJAN ANTONIČ S.P.",
+        "ulica": "Potoče 49",
+        "mesto": "Potoče",
+        "posta": "5263 Dobravlje",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PESTATOR DUŠAN S.P.",
+        "ulica": "Zevnikova ulica 2",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "LUŠTREK TOMAŽ, S.P.",
+        "ulica": "Ladja 30",
+        "mesto": "Ladja",
+        "posta": "1215 Medvode",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PETROL VULKANIZERSKI SERVIS TIP TOP",
+        "ulica": "Letališka cesta 38",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AFS1, DRUŽBA ZA VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL, D.O.O.",
+        "ulica": "Peruzzijeva ulica 107",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AMD-VUK, AVTOMEHANIČNA DELA, BRANIMIR VUKOVIĆ S.P.",
+        "ulica": "Celovška cesta 206",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AMONTE, AVTOPRALNICA IN VULKANIZERSTVO, D.O.O.",
+        "ulica": "Devova ulica 18",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ARMIČ, TRGOVINA, SERVIS D.O.O.",
+        "ulica": "Cesta 8. maja 2",
+        "mesto": "Log pri Brezovici",
+        "posta": "1358 Log pri Brezovici",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AS MOJSTER D.O.O.",
+        "ulica": "Tomačevska cesta 46",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO B DOMEN BENEDIK S.P.",
+        "ulica": "Vrhovci",
+        "mesto": "cesta VIII 8",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO BENČIČ PRODAJA IN SERVIS PRIMOŽ BENČIČ S.P.",
+        "ulica": "Jevnica 72",
+        "mesto": "Jevnica",
+        "posta": "1281 Kresnice",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO KLEMENČIČ, D.O.O.,",
+        "ulica": "Podpeška cesta 423",
+        "mesto": "Notranje Gorice",
+        "posta": "1357 Notranje Gorice",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO MESOJEDEC, STORITVE IN TRGOVINA D.O.O.",
+        "ulica": "Vodovodna cesta 92 A",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOCENTER BOKALJ JANEZ BOKALJ S.P.",
+        "ulica": "Zajelše 44",
+        "mesto": "Zajelše",
+        "posta": "1262 Dol pri Ljubljani",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOCENTER MARTIN STIPIČ S.P.",
+        "ulica": "Zaloška cesta 179",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOCENTER VELIĆ AVTOSERVIS ZLATAN VELIĆ S.P.",
+        "ulica": "Stegne 15",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOELEKTRIKA POMOČ NA CESTI IGOR SVETEK S.P.",
+        "ulica": "Sadinja vas 81",
+        "mesto": "Sadinja vas",
+        "posta": "1261 Ljubljana - Dobrunje",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOGUME NIKOLA VUJASINOVIĆ S.P.",
+        "ulica": "Pod hribom 3",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOKLINIKA CIRIL D.O.O.",
+        "ulica": "Šmartinska cesta 154",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOLIČARSTVO IGOR KERŠIČ S.P.",
+        "ulica": "Ižanska cesta 379",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA KUCLAR, STORITVE IN TRGOVINA, D.O.O.",
+        "ulica": "Celovška cesta 206",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA MATJAŽ KLOPČIČ S.P.",
+        "ulica": "Vevška cesta 2 A",
+        "mesto": "Ljubljana",
+        "posta": "1260 Ljubljana - Polje",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA, VULKANIZERSTVO IN KMETIJSKA MEHANIZACIJA ANDREJ KLANČAR S.P.",
+        "ulica": "Videm 29 D",
+        "mesto": "Videm",
+        "posta": "1312 Videm - Dobrepolje",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA-GAŠPER PETEK, S.P.",
+        "ulica": "Podgorje 122 B",
+        "mesto": "Podgorje",
+        "posta": "1241 Kamnik",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMOJSTER, D.O.O.",
+        "ulica": "Cesta Dolomitskega odreda 137",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS GREGORC, D.O.O.",
+        "ulica": "Steletova ulica 2",
+        "mesto": "Mengeš",
+        "posta": "1234 Mengeš",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS JERŠINOVIČ JERNEJ JERŠINOVIČ S.P.",
+        "ulica": "Voljčeva cesta 11 A",
+        "mesto": "Vrhnika",
+        "posta": "1360 Vrhnika",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS JOŽE ZABUKOVEC ML., S.P.",
+        "ulica": "Mala Slevica 26 A",
+        "mesto": "Mala Slevica",
+        "posta": "1315 Velike Lašče",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS KASTELIC, DEJAN KASTELIC S.P.",
+        "ulica": "Brodarska ulica 15",
+        "mesto": "Litija",
+        "posta": "1270 Litija",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS KOGOVŠEK D.O.O.",
+        "ulica": "Vodnikova cesta 267",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS ROMAN PRAŠNIKAR S.P.",
+        "ulica": "Prevalje 2",
+        "mesto": "Prevalje",
+        "posta": "1225 Lukovica",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS ŠPAN D.O.O.",
+        "ulica": "Galjevica 11 A",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS, JOŽE JAKOŠ S.P.",
+        "ulica": "Črna vas 187 D",
+        "mesto": "Črna vas",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSTORITVE ZAJEC D.O.O.",
+        "ulica": "Dolenjska cesta 386",
+        "mesto": "Lavrica",
+        "posta": "1291 Škofljica",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO-SVETEK STUDENEC, D.O.O.",
+        "ulica": "Studenec 11",
+        "mesto": "Ljubljana",
+        "posta": "1260 Ljubljana - Polje",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOTREND D.O.O.",
+        "ulica": "Ulica Lojzke Štebijeve 7",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "CETIX PODJETJE ZA TRGOVINO IN STORITVE D.O.O.,",
+        "ulica": "Plemljeva ulica 2",
+        "mesto": "Ljubljana",
+        "posta": "1210 Ljubljana - Šentvid",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "CVETKOVIČ D.O.O.",
+        "ulica": "Javor 33 B",
+        "mesto": "Javor",
+        "posta": "1261 Ljubljana - Dobrunje",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "CVETKOVIČ D.O.O.",
+        "ulica": "Hladilniška pot 35",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ČREŠNIK D.O.O.,",
+        "ulica": "Spodnja Senica 20",
+        "mesto": "Spodnja Senica",
+        "posta": "1215 Medvode",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "FAMM COMMERCE, TRGOVINA IN STORITVE D.O.O.",
+        "ulica": "Obrtna cona Logatec 10 A",
+        "mesto": "Logatec",
+        "posta": "1370 Logatec",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GAS GOSTIČ AVTOSERVIS DAVID GOSTIČ S.P.",
+        "ulica": "Zaboršt 24",
+        "mesto": "Prevoje pri Šentvidu",
+        "posta": "1225 Lukovica",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GRDADOLNIK MIHAEL S.P.",
+        "ulica": "Tržaška cesta 335 A",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GRGIČ STANE S.P.",
+        "ulica": "Zajčeva cesta 5",
+        "mesto": "Komenda",
+        "posta": "1218 Komenda",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GRIM AVTOMEHANIK ROBERT GORJUP S.P.",
+        "ulica": "Koliška ulica 18",
+        "mesto": "Vir",
+        "posta": "1230 Domžale",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GROŠ D.O.O.",
+        "ulica": "Zasavska cesta 74",
+        "mesto": "Ljubljana",
+        "posta": "1231 Ljubljana - Črnuče",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GT-COM D.O.O.,",
+        "ulica": "Gospodinjska ulica 8",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "HITRI SERVIS CASERMAN PETER CASERMAN S.P.",
+        "ulica": "Pod Hruševco 14",
+        "mesto": "Vrhnika",
+        "posta": "1360 Vrhnika",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "HRIBAR IN HRIBAR D.O.O.",
+        "ulica": "Šmartinska cesta 240",
+        "mesto": "Ljubljana",
+        "posta": "1260 Ljubljana - Polje",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ISTENIČ - AVTOSERVIS DRUŽBA ZA STORITVE, TRGOVINO IN POSREDOVANJE, D.O.O.",
+        "ulica": "Podpeška cesta 153",
+        "mesto": "Vnanje Gorice",
+        "posta": "1351 Brezovica pri Ljubljani",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JEKLOTRONIK D.O.O.",
+        "ulica": "Ljubljanska cesta 12",
+        "mesto": "Litija",
+        "posta": "1270 Litija",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KNAVS VULKANIZERSTVO IN AVTOPRALNICA D.O.O.",
+        "ulica": "Mengeška cesta 81",
+        "mesto": "Trzin",
+        "posta": "1236 Trzin",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KPM PRIMOŽ KOS S.P.",
+        "ulica": "Ocvirkova ulica 52",
+        "mesto": "Ljubljana",
+        "posta": "1231 Ljubljana - Črnuče",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KSEMAR, D.O.O.,",
+        "ulica": "Erbežnikova ulica 23",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "LENČEK DUŠAN S.P.",
+        "ulica": "Stara cesta 2",
+        "mesto": "Prevoje pri Šentvidu",
+        "posta": "1225 Lukovica",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "LSC LJUBLJANA D.O.O.",
+        "ulica": "Letališka cesta 14",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MAR-DAM D.O.O",
+        "ulica": "Hladnikova cesta 26",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MICHELIN SLOVENIJA PNEVMATIKE, D.O.O.",
+        "ulica": "Leskoškova cesta 9 D",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PNEUMATIC B&F D.O.O.",
+        "ulica": "Dolenjska cesta 138",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PROFI SILVIN ŠURK S.P.",
+        "ulica": "Zadobrovška cesta 11",
+        "mesto": "Ljubljana",
+        "posta": "1260 Ljubljana - Polje",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PROTECT GL D.O.O.",
+        "ulica": "Kajuhova ulica 35",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PVT D.O.O.",
+        "ulica": "Kamniška cesta 65",
+        "mesto": "Vodice",
+        "posta": "1217 Vodice",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ROTAL JV D.O.O.",
+        "ulica": "Dole pri Litiji 11 A",
+        "mesto": "Dole pri Litiji",
+        "posta": "1273 Dole pri Litiji",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "S.K.-KART,SERVISIRANJE MOTORNIH VOZIL,SLAVKO KOLMANIČ S.P.",
+        "ulica": "Sneberska cesta 70",
+        "mesto": "Ljubljana",
+        "posta": "1260 Ljubljana - Polje",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SIMAX TRGOVINA Z AVTO DELI, ZALOKAR SILVO S.P.",
+        "ulica": "Masljeva ulica 11",
+        "mesto": "Domžale",
+        "posta": "1230 Domžale",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SITAR CENTER, STORITVE IN TRGOVINA D.O.O.",
+        "ulica": "Vrhpolje pri Kamniku 224",
+        "mesto": "Vrhpolje pri Kamniku",
+        "posta": "1241 Kamnik",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SLEMENICE D.O.O.",
+        "ulica": "Muljava 36 B",
+        "mesto": "Muljava",
+        "posta": "1295 Ivančna Gorica",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ŠINA EDVARD ŠINKOVEC S.P.",
+        "ulica": "Pod lipami 2",
+        "mesto": "Logatec",
+        "posta": "1370 Logatec",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ŠKULJ D.O.O.",
+        "ulica": "Iška vas 63 A",
+        "mesto": "Iška vas",
+        "posta": "1292 Ig",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ŠPAN PODJETJE ZA PROIZVODNJO, TRGOVINO, SERVIS IN TRANSPORT D.O.O.",
+        "ulica": "Tržaška cesta 547",
+        "mesto": "Brezovica pri Ljubljani",
+        "posta": "1351 Brezovica pri Ljubljani",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "T&T CENTER VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL TOMO TEGELJ S.P.",
+        "ulica": "Matena 27",
+        "mesto": "Matena",
+        "posta": "1292 Ig",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TETRA-MARK, D.O.O.,",
+        "ulica": "Cesta v Gorice 10 A",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TRAKSERVIS, SERVIS IN POPRAVILO VOZIL IN STROJEV, ANDREJ URANIČ S.P.",
+        "ulica": "Klanec 36",
+        "mesto": "Klanec",
+        "posta": "1218 Komenda",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TRGOVINA S TEHNIČNO ROBO, PREIZKUS IN PREMONTAŽA PNEVMATIK, ANDREJ TRAVNIK S.P.",
+        "ulica": "Jurčkova cesta 15",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TRZ AVTOSERVIS ZVONE TRŠINAR S.P.",
+        "ulica": "Poljanska cesta 93",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "UPELJ TOMAŽ S.P.",
+        "ulica": "Jevnica 25",
+        "mesto": "Jevnica",
+        "posta": "1281 Kresnice",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULCO - KRALJ MARJAN S.P.",
+        "ulica": "Ljubljanska cesta 6 B",
+        "mesto": "Ivančna Gorica",
+        "posta": "1295 Ivančna Gorica",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO TOMAŽ DERNIČ S.P.",
+        "ulica": "Habjanova ulica 2",
+        "mesto": "Šmarca",
+        "posta": "1241 Kamnik",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO ZAKRAJŠEK ZAKRAJŠEK ALEŠ S.P.",
+        "ulica": "Stara Vrhnika 135",
+        "mesto": "Stara Vrhnika",
+        "posta": "1360 Vrhnika",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO, PRIMOŽ GLOBOKAR S.P.",
+        "ulica": "Cikava 38",
+        "mesto": "Cikava",
+        "posta": "1290 Grosuplje",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO, SERVIS IN TRGOVINA GREGOR IHAN S.P.",
+        "ulica": "Tržaška cesta 133",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKAPLAST D.O.O.",
+        "ulica": "Stara Vrhnika 78",
+        "mesto": "Stara Vrhnika",
+        "posta": "1360 Vrhnika",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULPRA, AVTOPRALNICA IN VULKANIZERSTVO, D.O.O.",
+        "ulica": "Ljubljanska cesta 39",
+        "mesto": "Trzin",
+        "posta": "1236 Trzin",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ŽAVBI JANEZ S.P.",
+        "ulica": "Šmartno v Tuhinju 21",
+        "mesto": "Šmartno v Tuhinju",
+        "posta": "1219 Laze v Tuhinju",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "CIM, PODJETJE ZA TRGOVINO, D.O.O.",
+        "ulica": "Ljubljanska cesta 1",
+        "mesto": "Domžale",
+        "posta": "1230 Domžale",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "IMPERL TRGOVSKO PODJETJE D.O.O.PE : AC DOMŽALE",
+        "ulica": "Ljubljanska cesta 1",
+        "mesto": "Domžale",
+        "posta": "1230 Domžale",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "NOVAK, IZPUŠNI SISTEMI, D.O.O.SERVISNI CENTER LJUBLJANA",
+        "ulica": "Dolenjska cesta 138",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "POSLOVNA ENOTA MEDVODE",
+        "ulica": "Gorenjska cesta 50 C",
+        "mesto": "Medvode",
+        "posta": "1215 Medvode",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PRAČEK TRGOVINA Z AVTODELI, D.O.O.AVTOMEHANIKA IN VULKANIZERSTVO",
+        "ulica": "Dunajska cesta 229",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SPORTSTIL KART D.O.O.PE VULKANIZERSTVO",
+        "ulica": "Dunajska cesta 337",
+        "mesto": "Ljubljana",
+        "posta": "1231 Ljubljana - Črnuče",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VITOX HOČEVAR D.O.O.",
+        "ulica": "Ambrus 29 A",
+        "mesto": "Ambrus",
+        "posta": "1303 Zagradec",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VITOX HOČEVAR D.O.O.",
+        "ulica": "Ambrus 116",
+        "mesto": "Ambrus",
+        "posta": "1303 Zagradec",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO IN AVTOSERVIS ANDREJ HOČEVAR S.P.",
+        "ulica": "Kajuhova ulica 32 M",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOVLEKA IN VULKANIZERSTVO GORAN NJENJIĆ S.P.",
+        "ulica": "Podhojni Hrib 8",
+        "mesto": "Podhojni Hrib",
+        "posta": "1314 Rob",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "EUROGUME D.O.O.",
+        "ulica": "Ljubljanska cesta 15",
+        "mesto": "Kamnik",
+        "posta": "1241 Kamnik",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GB 71 VULKANIZERSTVO GREGOR BUŽGA S.P.",
+        "ulica": "Hruševska cesta 92 A",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AC MAKOTER D.O.O.",
+        "ulica": "Ulica Ante Trstenjaka 17",
+        "mesto": "Ljutomer",
+        "posta": "9240 Ljutomer",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO KOVAČ, LEOPOLD KOVAČ, S.P.",
+        "ulica": "Segovci 44 C",
+        "mesto": "Segovci",
+        "posta": "9253 Apače",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO REŽONJA D.O.O.",
+        "ulica": "Nemčavci 39 B",
+        "mesto": "Nemčavci",
+        "posta": "9221 Martjanci",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOCENTER SIMON, POPRAVILA IN VZDRŽEVANJE VOZIL TER OKREPČEVALNICA, D.O.O.",
+        "ulica": "Panonska ulica 35",
+        "mesto": "Bakovci",
+        "posta": "9000 Murska Sobota",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOKLINIKA MS, IGOR PETROVIĆ S.P.",
+        "ulica": "Tišinska ulica 16",
+        "mesto": "Murska Sobota",
+        "posta": "9000 Murska Sobota",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOLIČARSTVO CIPOT D.O.O.",
+        "ulica": "Lukačevci 9",
+        "mesto": "Lukačevci",
+        "posta": "9226 Moravske Toplice",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA EMIL POČIČ S.P.",
+        "ulica": "Fokovci 39",
+        "mesto": "Fokovci",
+        "posta": "9208 Fokovci",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA IN TRGOVINA MILAN ŠPILAK S.P.",
+        "ulica": "Ulica 4. maja 13",
+        "mesto": "Turnišče",
+        "posta": "9224 Turnišče",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA, DUŠAN ŽIŽEK S.P.",
+        "ulica": "Žižki 57",
+        "mesto": "Žižki",
+        "posta": "9232 Črenšovci",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS ALEŠ, ALEŠ PELCAR, S.P.",
+        "ulica": "Šalamenci 70",
+        "mesto": "Šalamenci",
+        "posta": "9201 Puconci",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "BENKIČ FRANC S.P.",
+        "ulica": "Vanča vas 23",
+        "mesto": "Vanča vas",
+        "posta": "9251 Tišina",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "BINT, AVTODIAGNOSTIKA, D.O.O.",
+        "ulica": "Ulica ob Ložiču 5",
+        "mesto": "Krog",
+        "posta": "9000 Murska Sobota",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ČEPLAK VULKANIZERSTVO D.O.O.",
+        "ulica": "Partizanska cesta 55",
+        "mesto": "Gornja Radgona",
+        "posta": "9250 Gornja Radgona",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GUMI CENTER GABERJE D.O.O.",
+        "ulica": "Marof 4",
+        "mesto": "Gaberje - Gyertyanos",
+        "posta": "9220 Lendava - Lendva",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PC ZORMAN, AVTOOPTIKA VULKANIZERSTVO HITRI SERVIS, ZORMAN ALEŠ S.P.",
+        "ulica": "Lomanoše 6 B",
+        "mesto": "Lomanoše",
+        "posta": "9250 Gornja Radgona",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TRGOVINA IN SERVIS GEAL BORUT GERGEK S.P.",
+        "ulica": "Puconci 61",
+        "mesto": "Puconci",
+        "posta": "9201 Puconci",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO F1, MARJAN MARTINEC S.P.",
+        "ulica": "Cankova 36",
+        "mesto": "Cankova",
+        "posta": "9261 Cankova",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO HARI IN LEBAR, GREGOR HARI S.P.",
+        "ulica": "Cankarjeva ulica 18",
+        "mesto": "Beltinci",
+        "posta": "9231 Beltinci",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO MIRAN ŠČAVNIČAR S.P.",
+        "ulica": "Nunska Graba 11",
+        "mesto": "Nunska Graba",
+        "posta": "9240 Ljutomer",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AC MAKOTER D.O.O.AVTOSALON PREŠERNOVA",
+        "ulica": "Prešernova ulica 25",
+        "mesto": "Ljutomer",
+        "posta": "9240 Ljutomer",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "POPRAVILO TEHTNIC, TAHOGRAFOV IN VULKANIZERSTVO ŠLIHTHUBER ŠTEFAN S.P.",
+        "ulica": "Obrtna ulica 17",
+        "mesto": "Murska Sobota",
+        "posta": "9000 Murska Sobota",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "RENARK, POSREDNIŠTVO, TRGOVINA IN STORITVE, D.O.O.",
+        "ulica": "Ulica Štefana Kovača 2 A",
+        "mesto": "Turnišče",
+        "posta": "9224 Turnišče",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TIP SERVIS, TRGOVINA IN STORITVE D.O.O.PE SERVIS GORNJI LAKOŠ",
+        "ulica": "Glavna ulica 73",
+        "mesto": "Gornji Lakoš - Felsolakos",
+        "posta": "9220 Lendava - Lendva",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TRGOVINA IN SERVIS GEAL BORUT GERGEK S.P.",
+        "ulica": "Puconci 77",
+        "mesto": "Puconci",
+        "posta": "9201 Puconci",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "CIZERL D.O.O.",
+        "ulica": "Nasipna ulica 61",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULCO-ZAVERSKI BRANKO S.P.",
+        "ulica": "Titova cesta 48",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TDS - SONJA ŠPRAH S.P.",
+        "ulica": "Borcev za severno mejo 4",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AC ERIK D.O.O.",
+        "ulica": "Radehova 11",
+        "mesto": "Radehova",
+        "posta": "2230 Lenart v Slovenskih Goricah",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO GOLEC, PRODAJA IN SERVISIRANJE VOZIL, D.O.O.",
+        "ulica": "Žolgarjeva ulica 6",
+        "mesto": "Slovenska Bistrica",
+        "posta": "2310 Slovenska Bistrica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO JURIČ, PRODAJA, SERVISIRANJE VOZIL, TRGOVINA, POSREDNIŠTVO IN STORITVE, D.O.O.",
+        "ulica": "Industrijska ulica 4",
+        "mesto": "Slovenska Bistrica",
+        "posta": "2310 Slovenska Bistrica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO PEM, PEM IRENA S.P.",
+        "ulica": "Čadram 22 A",
+        "mesto": "Čadram",
+        "posta": "2317 Oplotnica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO PNEUMATIC CENTER MITJA PUŠNIK S.P.",
+        "ulica": "Spodnja Selnica 8",
+        "mesto": "Spodnja Selnica",
+        "posta": "2352 Selnica ob Dravi",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO SKRBIŠ, TRGOVINA, SERVIS IN DRUGE STORITVE D.O.O.",
+        "ulica": "Spodnja Polskava 102",
+        "mesto": "Spodnja Polskava",
+        "posta": "2331 Pragersko",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO VIP AVTO VZDRŽEVANJE IN POSREDNIŠTVO ZVONE PEPELNAK S.P.",
+        "ulica": "Štatenberg 54 A",
+        "mesto": "Štatenberg",
+        "posta": "2321 Makole",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOCENTER ŽIVČEC D.O.O.",
+        "ulica": "Limbuška cesta 78",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOLIČARSTVO- AVTOKLEPARSTVO, ŠTEFAN TAJNIKAR S.P.",
+        "ulica": "Zgornja Ložnica 71",
+        "mesto": "Zgornja Ložnica",
+        "posta": "2316 Zgornja Ložnica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOLIČARSTVO JOŽE RAGOLIČ S.P.",
+        "ulica": "Kozjak nad Pesnico 17 G",
+        "mesto": "Kozjak nad Pesnico",
+        "posta": "2201 Zgornja Kungota",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIK RUDOLF PERKO S.P.",
+        "ulica": "Plintovec 23 A",
+        "mesto": "Plintovec",
+        "posta": "2201 Zgornja Kungota",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOPRALNICA, DEMONTAŽA IN MONTAŽA PNEVMATIK ŽUNKO MARJANA S.P.",
+        "ulica": "Ruska ulica 2",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS IN VULKANIZERSTVO, SREČKO KUHAR S.P.",
+        "ulica": "Polenšak 28",
+        "mesto": "Polenšak",
+        "posta": "2257 Polenšak",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS,VULKANIZERSTVO,POPRAVILO KAROSERIJ, SILVO DAJČMAN S.P.",
+        "ulica": "Selnica ob Muri 55 B",
+        "mesto": "Selnica ob Muri",
+        "posta": "2215 Ceršak",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO-STORITVE SAŠA JAKOPIN S.P.",
+        "ulica": "Mariborska cesta 37",
+        "mesto": "Rače",
+        "posta": "2327 Rače",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GUMA AMOR D.O.O.",
+        "ulica": "Gregorčičeva ulica 10",
+        "mesto": "Poljčane",
+        "posta": "2319 Poljčane",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GUMA CENTER, KAVTIČNIK MATEJ S.P.",
+        "ulica": "Šentiljska cesta 11 A",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GUMI SERVIS IN SPLOŠNO VZDRŽEVANJE MOTORNIH VOZIL IVAN KOSI S.P.",
+        "ulica": "Pušenci 4",
+        "mesto": "Pušenci",
+        "posta": "2270 Ormož",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KMETEC FREDI S.P.",
+        "ulica": "Podvinci 40",
+        "mesto": "Podvinci",
+        "posta": "2250 Ptuj",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KOLARIČ BRANKO S.P.",
+        "ulica": "Ormoška cesta 81 A",
+        "mesto": "Ptuj",
+        "posta": "2250 Ptuj",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KOLARIČ IVAN S.P.",
+        "ulica": "Bukovci 121 C",
+        "mesto": "Bukovci",
+        "posta": "2281 Markovci",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KORŽE MARJAN D.O.O.",
+        "ulica": "Breg 18 B",
+        "mesto": "Breg",
+        "posta": "2322 Majšperk",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "LJUBEC DRAGO S.P.",
+        "ulica": "Spodnja Hajdina 7",
+        "mesto": "Spodnja Hajdina",
+        "posta": "2288 Hajdina",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "LORBEK & CO. D.O.O.",
+        "ulica": "Volodjeva ulica 64",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MAF. VZDRŽEVANJE VOZIL IN DRUGA PROIZVODNJA ELEKTRIČNE ENERGIJE, FRANJO FLOR, S.P.",
+        "ulica": "Čadram 31",
+        "mesto": "Čadram",
+        "posta": "2317 Oplotnica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MARKEŽ ROBERT S.P.",
+        "ulica": "Janežovci 8 E",
+        "mesto": "Janežovci",
+        "posta": "2253 Destrnik",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MOTOTON, SERVIS MOTORNIH VOZIL, D.O.O.",
+        "ulica": "Lačna Gora 8 A",
+        "mesto": "Lačna Gora",
+        "posta": "2317 Oplotnica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PBB, POPRAVILO IN STORITVE, D.O.O.",
+        "ulica": "Prvomajska ulica 8",
+        "mesto": "Slovenska Bistrica",
+        "posta": "2310 Slovenska Bistrica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "POPRAVILO ALU PLATIŠČ IN MONTAŽA GUM VIKTORIJA PETRIČ S.P.",
+        "ulica": "Zgornja Senarska 23 B",
+        "mesto": "Zgornja Senarska",
+        "posta": "2235 Sv. Trojica v Slovenskih Goricah",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "RENARK, POSREDNIŠTVO, TRGOVINA IN STORITVE, D.O.O.",
+        "ulica": "Osek 83",
+        "mesto": "Osek",
+        "posta": "2235 Sv. Trojica v Slovenskih Goricah",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ROČNA AVTOPRALNICA BREZNIK, MONIKA ŠVAJNCER S.P.",
+        "ulica": "Gmajna 1",
+        "mesto": "Oplotnica",
+        "posta": "2317 Oplotnica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SERVIS VOZIL IN STROJEV DENIS POMER S.P.",
+        "ulica": "Prušnikova ulica 18",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SERVISNE STORITVE ŽIŽEK, SPLOŠNA POPRAVILA, TRGOVINA IN DRUGE POSLOVNE DEJAVNOSTI D.O.O.",
+        "ulica": "Tržaška cesta 53",
+        "mesto": "Razvanje",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SKOK DAVID S.P.",
+        "ulica": "Dvorjane 7 A",
+        "mesto": "Dvorjane",
+        "posta": "2241 Spodnji Duplek",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SM & PERKO D.O.O.",
+        "ulica": "Zgornji Žerjavci 30",
+        "mesto": "Zgornji Žerjavci",
+        "posta": "2230 Lenart v Slovenskih Goricah",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ŠIMENKO TOMAŽ S.P.",
+        "ulica": "Žabjak 34 A",
+        "mesto": "Ptuj",
+        "posta": "2250 Ptuj",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO AČKO-RUTNIK D.O.O.",
+        "ulica": "Ulica Kirbiševih 47",
+        "mesto": "Miklavž na Dravskem polju",
+        "posta": "2204 Miklavž na Dravskem Polju",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO IN RAČUNOVODSTVO RUTNIK D.O.O.",
+        "ulica": "Ulica Kirbiševih 47",
+        "mesto": "Miklavž na Dravskem polju",
+        "posta": "2204 Miklavž na Dravskem Polju",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO RAKUN, BOŠTJAN KAPUN S.P.",
+        "ulica": "Plinarniška ulica 21",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO SEBA SEBASTIJAN DOBNIK S.P.",
+        "ulica": "Mejna ulica 8",
+        "mesto": "Spodnji Duplek",
+        "posta": "2241 Spodnji Duplek",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO-TRGOVINA-BAR VLASTA DEBELAK S.P.",
+        "ulica": "Zrkovska cesta 82",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO TRŽAŠKA, BEKIM POLIČ S.P.MBSERVIS",
+        "ulica": "Cesta XIV. divizije 86",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GUMI SERVIS IN SPLOŠNO VZDRŽEVANJE MOTORNIH VOZIL IVAN KOSI S.P.",
+        "ulica": "Ljutomerska cesta 28",
+        "mesto": "Ormož",
+        "posta": "2270 Ormož",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KOLARIČ IVAN S.P.",
+        "ulica": "Rajšpova ulica 14",
+        "mesto": "Ptuj",
+        "posta": "2250 Ptuj",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "NOVAK, IZPUŠNI SISTEMI, D.O.O.SERVISNI CENTER MARIBOR",
+        "ulica": "Zagrebška cesta 76",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TUNING D.O.O.VULKANIZERSKO SERVISNA DELAVNICA VULCO",
+        "ulica": "Osojnikova cesta 12",
+        "mesto": "Ptuj",
+        "posta": "2250 Ptuj",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TUNING D.O.O.VULKANIZARSKI SERVIS IN TRGOVINA-BHS HITRI SERVIS",
+        "ulica": "Zamušani 2",
+        "mesto": "Zamušani",
+        "posta": "2272 Gorišnica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO VULKO GORAN DRAČA S.P.PE SLOVENSKA BISTRICA",
+        "ulica": "Stepišnikova ulica 10 A",
+        "mesto": "Slovenska Bistrica",
+        "posta": "2310 Slovenska Bistrica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ACF FERK VULKANIZERSTVO, TRGOVINA, PROIZVODNJA FERK MILOŠ S.P.",
+        "ulica": "Cesta Borisa Kidriča 26 C",
+        "mesto": "Slovenski Javornik",
+        "posta": "4270 Jesenice",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AG GANTAR NAKLO, D.O.O.",
+        "ulica": "Kranjska cesta 22",
+        "mesto": "Naklo",
+        "posta": "4202 Naklo",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AUTO M, LESCE, D.O.O.PE BLED",
+        "ulica": "Za Potokom 7 A",
+        "mesto": "Bled",
+        "posta": "4260 Bled",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO - KLEMENČIČ, PREDMOST, D.O.O.",
+        "ulica": "Predmost 27",
+        "mesto": "Predmost",
+        "posta": "4223 Poljane nad Škofjo Loko",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO B DOMEN BENEDIK S.P.",
+        "ulica": "Studeno 2",
+        "mesto": "Studeno",
+        "posta": "4228 Železniki",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO MARKELJ AVTOSERVIS IN TRGOVINA SABINA MARKELJ S.P.",
+        "ulica": "Brezje 78 A",
+        "mesto": "Brezje",
+        "posta": "4243 Brezje",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO MONY D.O.O.",
+        "ulica": "Alpska cesta 43",
+        "mesto": "Lesce",
+        "posta": "4248 Lesce",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOHIŠA GOLOB D.O.O.",
+        "ulica": "Poljče 4 B",
+        "mesto": "Poljče",
+        "posta": "4275 Begunje na Gorenjskem",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA BOKALJ SIMON BOKALJ S.P.",
+        "ulica": "Polica 18",
+        "mesto": "Polica",
+        "posta": "4202 Naklo",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA VALANT BARBARA VALANT S.P.",
+        "ulica": "Bodešče 17 A",
+        "mesto": "Bodešče",
+        "posta": "4260 Bled",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA, NATAŠA ČEBAŠEK S.P.",
+        "ulica": "Žerjavka 8 A",
+        "mesto": "Žerjavka",
+        "posta": "4000 Kranj",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS IN VULKANIZERSTVO ANDREJ KUNČIČ S.P.",
+        "ulica": "Smokuč 17 E",
+        "mesto": "Smokuč",
+        "posta": "4274 Žirovnica",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS LAVTAR, MIHAEL LAVTAR S.P.",
+        "ulica": "Selca 175",
+        "mesto": "Selca",
+        "posta": "4227 Selca",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOTRI, KRANJ D.O.O.",
+        "ulica": "Cesta na Rupo 87",
+        "mesto": "Kranj",
+        "posta": "4000 Kranj",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "BOLTEZ, D.O.O.",
+        "ulica": "Cesta Staneta Žagarja 58 C",
+        "mesto": "Kranj",
+        "posta": "4000 Kranj",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "BRELIH, D.O.O.,",
+        "ulica": "Suha 29",
+        "mesto": "Suha",
+        "posta": "4220 Škofja Loka",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ČOP, D.O.O.",
+        "ulica": "Ulica heroja Verdnika 23 A",
+        "mesto": "Jesenice",
+        "posta": "4270 Jesenice",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "GUMI SERVIS BOŠTJAN FERLAN S.P.",
+        "ulica": "Poljanska cesta 120",
+        "mesto": "Gorenja vas",
+        "posta": "4224 Gorenja vas",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JENKO D.O.O.",
+        "ulica": "Virmaše 195",
+        "mesto": "Virmaše",
+        "posta": "4220 Škofja Loka",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JERALA PROFIL, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL, D.O.O.",
+        "ulica": "Virmaše 189",
+        "mesto": "Virmaše",
+        "posta": "4220 Škofja Loka",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JERŠIN 2, D.O.O.,",
+        "ulica": "Jezerska cesta 2",
+        "mesto": "Kranj",
+        "posta": "4000 Kranj",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KLEMENC DANIELA S.P.",
+        "ulica": "Ulica Ivana Hribarja 7",
+        "mesto": "Cerklje na Gorenjskem",
+        "posta": "4207 Cerklje na Gorenjskem",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KRISTANC, D.O.O.",
+        "ulica": "Britof 45",
+        "mesto": "Britof",
+        "posta": "4000 Kranj",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MOBILNI VULKANIZERSKI SERVIS, JOŽE KLEMENC S.P.",
+        "ulica": "Bobovek 18",
+        "mesto": "Bobovek",
+        "posta": "4000 Kranj",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "REKOL D.O.O.",
+        "ulica": "Podreča 116",
+        "mesto": "Podreča",
+        "posta": "4211 Mavčiče",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "REŠEK RADO S.P.",
+        "ulica": "Frankovo naselje 150",
+        "mesto": "Škofja Loka",
+        "posta": "4220 Škofja Loka",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO PETER PERDAN S.P.",
+        "ulica": "Prebačevo 59 A",
+        "mesto": "Prebačevo",
+        "posta": "4000 Kranj",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO ŽEMLJA ŽEMLJA JANEZ ML. S.P.",
+        "ulica": "Zabreznica 20 A",
+        "mesto": "Zabreznica",
+        "posta": "4274 Žirovnica",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO, DARKO BENEDIČIČ S.P.",
+        "ulica": "Žiganja vas 27",
+        "mesto": "Žiganja vas",
+        "posta": "4294 Križe",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS IN VULKANIZERSTVO HUDO, JAN HUDOBIVNIK S.P.",
+        "ulica": "Koroška cesta 53 D",
+        "mesto": "Kranj",
+        "posta": "4000 Kranj",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PIPKO, ANŽE PIPAN S.P.PE PIPKO",
+        "ulica": "Pipanova cesta 38",
+        "mesto": "Šenčur",
+        "posta": "4208 Šenčur",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ALPETOURBANDAG, SERVISNE STORITVE IN PRODAJA D.O.O.",
+        "ulica": "Kidričeva cesta 55",
+        "mesto": "Škofja Loka",
+        "posta": "4220 Škofja Loka",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO BIČOP, BARBARA PAVLINJEK S.P.",
+        "ulica": "Ulica heroja Verdnika 23 A",
+        "mesto": "Jesenice",
+        "posta": "4270 Jesenice",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO BOSANC, SANEL KALTAK S.P.",
+        "ulica": "Vodnikova ulica 5",
+        "mesto": "Lesce",
+        "posta": "4248 Lesce",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JEREB RAJKO S.P.",
+        "ulica": "Potoška vas 44 A",
+        "mesto": "Potoška vas",
+        "posta": "1410 Zagorje ob Savi",
+        "regija": "ZASAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JPS MM D.O.O.",
+        "ulica": "Trg revolucije 8 B",
+        "mesto": "Trbovlje",
+        "posta": "1420 Trbovlje",
+        "regija": "ZASAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "URBANIJA SAMO S.P.",
+        "ulica": "Obrezija 18",
+        "mesto": "Izlake",
+        "posta": "1411 Izlake",
+        "regija": "ZASAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO MAUSSER DANIJEL S.P.",
+        "ulica": "Naselje Aleša Kaple 3 A",
+        "mesto": "Hrastnik",
+        "posta": "1430 Hrastnik",
+        "regija": "ZASAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO MALI AVTOSERVIS IN VULKANIZERSTVO D.O.O.",
+        "ulica": "Belokranjska cesta 22",
+        "mesto": "Črnomelj",
+        "posta": "8340 Črnomelj",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO MOTO EKSPERT, AVTO STORITVE, DEJAN KOS S.P.",
+        "ulica": "Prigorica 98",
+        "mesto": "Prigorica",
+        "posta": "1331 Dolenja vas",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOCENTER BRDAR D.O.O.",
+        "ulica": "Birčna vas 66",
+        "mesto": "Birčna vas",
+        "posta": "8000 Novo mesto",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOELEKTRIKA-VULKANIZERSTVO KAREL OBLAK S.P.",
+        "ulica": "Potok 5 A",
+        "mesto": "Potok",
+        "posta": "8351 Straža",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOLIČARSTVO ZDENKO TURK S.P.",
+        "ulica": "Dolenje Kronovo 5",
+        "mesto": "Dolenje Kronovo",
+        "posta": "8220 Šmarješke Toplice",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA JURIJ MURN S.P.",
+        "ulica": "Resslova ulica 4",
+        "mesto": "Novo mesto",
+        "posta": "8000 Novo mesto",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOPREVOZNIŠTVO, VULKANIZERSTVO MARJAN MEDOŠ S.P.",
+        "ulica": "Obrh pri Dragatušu 9",
+        "mesto": "Obrh pri Dragatušu",
+        "posta": "8343 Dragatuš",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS ANTON PLUT S.P.",
+        "ulica": "Božakovo 32 A",
+        "mesto": "Božakovo",
+        "posta": "8330 Metlika",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS OSMAK D.O.O.,",
+        "ulica": "Kolodvorska cesta 16",
+        "mesto": "Kočevje",
+        "posta": "1330 Kočevje",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS ROBERT BELŠAK S.P.",
+        "ulica": "Mali Slatnik 45",
+        "mesto": "Mali Slatnik",
+        "posta": "8000 Novo mesto",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS STIBRIČ ANDREJ STIBRIČ S.P.",
+        "ulica": "Bršljin 41",
+        "mesto": "Novo mesto",
+        "posta": "8000 Novo mesto",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOTRANSPORTI ZUPANČIČ D.O.O.",
+        "ulica": "Livada 1 A",
+        "mesto": "Novo mesto",
+        "posta": "8000 Novo mesto",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "BARTOG D.O.O.",
+        "ulica": "Obrtniška ulica 18",
+        "mesto": "Trebnje",
+        "posta": "8210 Trebnje",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "BRUMA VULKANIZERSTVO IN PRODAJA AVTOPLAŠČEV, MATIJA BRUNSKOLE S.P.",
+        "ulica": "Hrast pri Jugorju 1 A",
+        "mesto": "Hrast pri Jugorju",
+        "posta": "8331 Suhor",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "FINING MARJETA SMOLIČ S.P.",
+        "ulica": "Dobrava 22",
+        "mesto": "Dobrava",
+        "posta": "8211 Dobrnič",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "IZPUH CENTER, SERVIS IN PRODAJA IZPUŠNIH SISTEMOV D.O.O.",
+        "ulica": "Puščava 33",
+        "mesto": "Puščava",
+        "posta": "8230 Mokronog",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "M AVTO, VZDRŽEVANJE VOZIL, D.O.O.",
+        "ulica": "Bela Cerkev 14 B",
+        "mesto": "Bela Cerkev",
+        "posta": "8220 Šmarješke Toplice",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PNEUMA CENTER TONE KOS S.P.",
+        "ulica": "Martinja vas pri Mokronogu 39",
+        "mesto": "Martinja vas pri Mokronogu",
+        "posta": "8230 Mokronog",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PRIJATELJ PETER S.P.",
+        "ulica": "Rakovnik pri Šentrupertu 11",
+        "mesto": "Rakovnik pri Šentrupertu",
+        "posta": "8232 Šentrupert",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SERVIS IN OBNOVA ZAVOR IGOR JENIČ S.P.",
+        "ulica": "Rajnovšče 6",
+        "mesto": "Rajnovšče",
+        "posta": "8000 Novo mesto",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TIMI SERVIS VOZIL, AVTOELEKTRIKA, TRGOVINA, D.O.O.",
+        "ulica": "Smolenja vas 10 A",
+        "mesto": "Smolenja vas",
+        "posta": "8000 Novo mesto",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VAPP PEZDIRC VULKANIZERSTVO, AVTOPRALNICA, PREVOZNIŠTVO IN SERVIS - MARJAN PEZDIRC S.P.",
+        "ulica": "Podzemelj 1 A",
+        "mesto": "Podzemelj",
+        "posta": "8332 Gradac",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VIDIC CENTER D.O.O.",
+        "ulica": "Ljubljanska cesta 91",
+        "mesto": "Novo mesto",
+        "posta": "8000 Novo mesto",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO ANŽIČEK JOŽE ANŽIČEK S.P.",
+        "ulica": "Straža 24 A",
+        "mesto": "Straža",
+        "posta": "8232 Šentrupert",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO BOŠTJAN KONCILJA S.P.",
+        "ulica": "Dobrnič 1",
+        "mesto": "Dobrnič",
+        "posta": "8211 Dobrnič",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO BOŠTJAN VOVK S.P.",
+        "ulica": "Obrtniška ulica 4",
+        "mesto": "Trebnje",
+        "posta": "8210 Trebnje",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO KOCJAN MARIJAN KOCJAN S.P.",
+        "ulica": "Kočevje 10 D",
+        "mesto": "Črnomelj",
+        "posta": "8340 Črnomelj",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO KOVAČIČ VZDRŽEVANJE IN POPRAVILA VOZIL D.O.O.",
+        "ulica": "Bučarjeva cesta 9",
+        "mesto": "Šentjernej",
+        "posta": "8310 Šentjernej",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO OTOČEC BRANKO UHERNIK S.P.",
+        "ulica": "Dobrava 87",
+        "mesto": "Otočec",
+        "posta": "8222 Otočec",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "WEST TRANSPORT D.O.O.",
+        "ulica": "Kanižarica 44",
+        "mesto": "Kanižarica",
+        "posta": "8340 Črnomelj",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "NOVAK, IZPUŠNI SISTEMI, D.O.O.SERVISNI CENTER NOVO MESTO",
+        "ulica": "Na Lazu 1",
+        "mesto": "Novo mesto",
+        "posta": "8000 Novo mesto",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "NOVAK, IZPUŠNI SISTEMI, D.O.O.POSLOVNA ENOTA 3",
+        "ulica": "Ob potoku 10",
+        "mesto": "Novo mesto",
+        "posta": "8000 Novo mesto",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "RESMAN TRGOVINA, GOSTINSTVO, SERVISIRANJE D.O.O.PE AVTO DELI",
+        "ulica": "Florijanska cesta 13",
+        "mesto": "Mokronog",
+        "posta": "8230 Mokronog",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TRANSPORT ZOBEC DANIEL ZOBEC S.P.",
+        "ulica": "Obrtna cona Ugar 6",
+        "mesto": "Ribnica",
+        "posta": "1310 Ribnica",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZER JOŽE OSVALD S.P.",
+        "ulica": "Opekarska cesta 41",
+        "mesto": "Ribnica",
+        "posta": "1310 Ribnica",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO IN AVTOPRALNICA MARJAN OGULIN S.P.",
+        "ulica": "Pot k Lebici 10",
+        "mesto": "Semič",
+        "posta": "8333 Semič",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOELEKTRIKA MLAKAR PETER S.P.",
+        "ulica": "Snežniška cesta 1",
+        "mesto": "Pivka",
+        "posta": "6257 Pivka",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOPREVOZNIŠTVO IN VULKANIZERSTVO ADAMIČ VOJKO S.P.",
+        "ulica": "Hrenovice 47",
+        "mesto": "Hrenovice",
+        "posta": "6230 Postojna",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "DBF, VULKANIZERSTVO IN HITRI SERVIS, D.O.O.",
+        "ulica": "Hrašče 4 X",
+        "mesto": "Hrašče",
+        "posta": "6230 Postojna",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "R&S AVTO D.O.O.",
+        "ulica": "Jelšane 15 A",
+        "mesto": "Jelšane",
+        "posta": "6254 Jelšane",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SIMET D.O.O.",
+        "ulica": "Podskrajnik 48",
+        "mesto": "Podskrajnik",
+        "posta": "1380 Cerknica",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SPC KRETIČ TRGOVINA IN STORITVE D.O.O.",
+        "ulica": "Matenja vas 76",
+        "mesto": "Matenja vas",
+        "posta": "6258 Prestranek",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ŠVIGELJ ALOJZIJ S.P.",
+        "ulica": "Begunje pri Cerknici 4 A",
+        "mesto": "Begunje pri Cerknici",
+        "posta": "1382 Begunje pri Cerknici",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TRGOVINA IN SERVIS TONE ŠEGA S.P.",
+        "ulica": "Cesta 4. maja 76",
+        "mesto": "Cerknica",
+        "posta": "1380 Cerknica",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO, ANDREJ KALUŽA S.P.",
+        "ulica": "Vilharjeva cesta 31 A",
+        "mesto": "Ilirska Bistrica",
+        "posta": "6250 Ilirska Bistrica",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PNEUMATIC CENTER TKAVC SABINA S.P.",
+        "ulica": "Lesarska cesta 45",
+        "mesto": "Nazarje",
+        "posta": "3331 Nazarje",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO LESK ELEKTRIKA IN TRGOVINA SANDI SKUBIC S.P.",
+        "ulica": "Tržišče 9",
+        "mesto": "Tržišče",
+        "posta": "3250 Rogaška Slatina",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO ŠIBI VZDRŽEVANJE IN POPRAVILA VOZIL D.O.O.",
+        "ulica": "Trnovlje pri Socki 29",
+        "mesto": "Trnovlje pri Socki",
+        "posta": "3203 Nova Cerkev",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOKLEPARSTVO, AVTOVLEKA, MIRAN LUKEŽ S.P.",
+        "ulica": "Velika Pirešica 31",
+        "mesto": "Velika Pirešica",
+        "posta": "3310 Žalec",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA - AVTOELEKTRIKA MIROSLAV KUMELJ, S.P.",
+        "ulica": "Na Jelovo 21",
+        "mesto": "Radeče",
+        "posta": "1433 Radeče",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA GUMA DALIBOR JOVANOV S.P.",
+        "ulica": "Ulica Cvetke Jerin 1",
+        "mesto": "Štore",
+        "posta": "3220 Štore",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIKA,AVTOVLEKA IN VULKANIZACIJA GUM JOŽE ŠKOFLEK S.P.",
+        "ulica": "Lokovina 15",
+        "mesto": "Lokovina",
+        "posta": "3204 Dobrna",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOPRALNICA, VULKANIZACIJA NOTRANJE ČIŠČENJE IN POLIRANJE VOZIL VILJEM MERNIK S.P.",
+        "ulica": "Ob potoku 1",
+        "mesto": "Slovenske Konjice",
+        "posta": "3210 Slovenske Konjice",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOPREVOZNIŠTVO - TAXI STANISLAV PIRNAT S.P.",
+        "ulica": "Kovaška cesta 31 B",
+        "mesto": "Zreče",
+        "posta": "3214 Zreče",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS PEER, VZDRŽEVANJE IN POPRAVILO MOTORNIH VOZIL D.O.O.",
+        "ulica": "Sv. Florijan 100 X",
+        "mesto": "Sv. Florijan",
+        "posta": "3250 Rogaška Slatina",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS TRATNIK D.O.O.",
+        "ulica": "Ob Savinji 9",
+        "mesto": "Ločica ob Savinji",
+        "posta": "3313 Polzela",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS VASLE, ROMAN VASLE S.P.",
+        "ulica": "Podkraj 9 A",
+        "mesto": "Podkraj",
+        "posta": "3310 Žalec",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS VAUH, TRGOVINA IN STORITVE, D.O.O.",
+        "ulica": "Žarova cesta 26",
+        "mesto": "Velenje",
+        "posta": "3320 Velenje",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOVID TOMISLAV VIDENŠEK S.P.",
+        "ulica": "Keršova ulica 8 A",
+        "mesto": "Vojnik",
+        "posta": "3212 Vojnik",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOVID TOMISLAV VIDENŠEK S.P.",
+        "ulica": "Liptovska ulica 32",
+        "mesto": "Slovenske Konjice",
+        "posta": "3210 Slovenske Konjice",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "DEKLEVA MIRAN S.P.",
+        "ulica": "Ložnica pri Žalcu 41",
+        "mesto": "Ložnica pri Žalcu",
+        "posta": "3310 Žalec",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "DR SERVIS IN VZDRŽEVANJE VOZIL, RAJKO DORNIK S.P.",
+        "ulica": "Lokrovec 38 B",
+        "mesto": "Lokrovec",
+        "posta": "3000 Celje",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "G&K AVTO, SERVIS IN PRODAJA VOZIL, D.O.O.",
+        "ulica": "Cesta Kozjanskega odreda 18",
+        "mesto": "Šentjur",
+        "posta": "3230 Šentjur",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JURČAK JURE S.P.",
+        "ulica": "Škofja vas 33 A",
+        "mesto": "Škofja vas",
+        "posta": "3211 Škofja vas",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KITEK SLAVKO S.P.",
+        "ulica": "Kovaška cesta 3",
+        "mesto": "Vitanje",
+        "posta": "3205 Vitanje",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KT MOBIL, KLEMEN PODPEČAN S.P.",
+        "ulica": "Dobrna 32 D",
+        "mesto": "Dobrna",
+        "posta": "3204 Dobrna",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "LEBIČ ADI S.P.",
+        "ulica": "Ptujska cesta 1",
+        "mesto": "Rogatec",
+        "posta": "3252 Rogatec",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "M - ŽIVIC D.O.O.",
+        "ulica": "Škale 97 B",
+        "mesto": "Škale",
+        "posta": "3320 Velenje",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MALOPRAV ROBERT S.P.",
+        "ulica": "Brode 14",
+        "mesto": "Brode",
+        "posta": "3305 Vransko",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MARKON PODJETJE ZA TRGOVINO IN STORITVE, D.O.O.",
+        "ulica": "Mariborska cesta 54 A",
+        "mesto": "Celje",
+        "posta": "3000 Celje",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MONTAŽA GUM IN AVTOPRALNICA ZVONKO PLEVČAK S.P.",
+        "ulica": "Irje 36 A",
+        "mesto": "Irje",
+        "posta": "3250 Rogaška Slatina",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "POPRAVILA IN VLEKA VOZIL, JANKO ŠALAMUN S.P.",
+        "ulica": "Drešinja vas 25",
+        "mesto": "Drešinja vas",
+        "posta": "3301 Petrovče",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "POPRAVILO CESTNIH VOZIL NA TERENU DARKO HROVAT S.P.",
+        "ulica": "Bodrišna vas 13",
+        "mesto": "Bodrišna vas",
+        "posta": "3231 Grobelno",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "RILE SERVIS JASMIN JAKUPOVIĆ S.P.",
+        "ulica": "Preloška cesta 1",
+        "mesto": "Velenje",
+        "posta": "3320 Velenje",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SAPS D.O.O.",
+        "ulica": "Kocbekova cesta 38",
+        "mesto": "Ljubečna",
+        "posta": "3202 Ljubečna",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SAVA AVTO D.O.O.",
+        "ulica": "Dolenji Boštanj 60 A",
+        "mesto": "Dolenji Boštanj",
+        "posta": "8294 Boštanj",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TRGOVINA IN SERVIS, LADKO PETRETIČ S.P.",
+        "ulica": "Krška cesta 10",
+        "mesto": "Kostanjevica na Krki",
+        "posta": "8311 Kostanjevica na Krki",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOMEHANIK STANKO KERIN S.P.",
+        "ulica": "Gržeča vas 9",
+        "mesto": "Gržeča vas",
+        "posta": "8273 Leskovec pri Krškem",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS DERENDA, AVTOKLEPARSTVO, AVTOLIČARSTVO IN AVTOVLEKA D.O.O.",
+        "ulica": "Gornji Lenart 17",
+        "mesto": "Gornji Lenart",
+        "posta": "8250 Brežice",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "CEKIN D.O.O.",
+        "ulica": "Cesta krških žrtev 132 B",
+        "mesto": "Krško",
+        "posta": "8270 Krško",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "HOTKO VULKANIZERSTVO, AVTOPRALNICA IN TRGOVINA D.O.O.",
+        "ulica": "Globoko 63",
+        "mesto": "Globoko",
+        "posta": "8254 Globoko",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "METELKO, VZDRŽEVANJE IN POPRAVILA VOZIL, D.O.O.",
+        "ulica": "Planinska cesta 8",
+        "mesto": "Sevnica",
+        "posta": "8290 Sevnica",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "OBLAK KRŠKO, PROMET IN GOSTINSTVO, D.O.O.",
+        "ulica": "Brege 41",
+        "mesto": "Brege",
+        "posta": "8273 Leskovec pri Krškem",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "UNETIČ BOJAN S.P.",
+        "ulica": "Ulica 11. novembra 47",
+        "mesto": "Leskovec pri Krškem",
+        "posta": "8273 Leskovec pri Krškem",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO + AVTOPRALNICA IVAN PANGERČIČ S.P.",
+        "ulica": "Žabjek v Podbočju 10",
+        "mesto": "Žabjek v Podbočju",
+        "posta": "8312 Podbočje",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO BREZINA, ALEKSANDER ŠKALER S.P.",
+        "ulica": "Brezina 43 A",
+        "mesto": "Brežice",
+        "posta": "8250 Brežice",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO IN PRODAJA GUM - ŠTINGL JADRANKA, S.P.",
+        "ulica": "Ulica kozjanskih borcev 18",
+        "mesto": "Brežice",
+        "posta": "8250 Brežice",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO IN TRGOVINA - DARKO OBLAK S.P.",
+        "ulica": "Brege 41",
+        "mesto": "Brege",
+        "posta": "8273 Leskovec pri Krškem",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO ŠPICA, BRIGITA ZORKO S.P.",
+        "ulica": "Veliki Podlog 2",
+        "mesto": "Veliki Podlog",
+        "posta": "8273 Leskovec pri Krškem",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO, SERVIS, TRGOVINA - LAŠIČ ALEŠ, S.P.",
+        "ulica": "Trnje 14",
+        "mesto": "Brežice",
+        "posta": "8250 Brežice",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO, SERVIS, TRGOVINA IN AVTOPRALNICA - FURLAN MELITA, S.P.",
+        "ulica": "Mihalovec 1",
+        "mesto": "Mihalovec",
+        "posta": "8257 Dobova",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VZDRŽEVANJE VOZIL, BRANKO PUST S.P.",
+        "ulica": "Nova Gora 8",
+        "mesto": "Nova Gora",
+        "posta": "8270 Krško",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "MEHANIČNA POPRAVILA, ALOJZ STEGENŠEK S.P.",
+        "ulica": "Loka pri Zidanem Mostu 92 A",
+        "mesto": "Loka pri Zidanem Mostu",
+        "posta": "1434 Loka pri Zidanem Mostu",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AUTUS STORITVE IN TRGOVINA D.O.O.",
+        "ulica": "Stare sledi 1",
+        "mesto": "Prevalje",
+        "posta": "2391 Prevalje",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO VIHER BRANKO VIHER S.P.",
+        "ulica": "Zgornji trg 1",
+        "mesto": "Vuzenica",
+        "posta": "2367 Vuzenica",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTO VORNŠEK AVTOLIČARSTVO IN AVTOKLEPARSTVO D.O.O.",
+        "ulica": "Legen 95 A",
+        "mesto": "Legen",
+        "posta": "2380 Slovenj Gradec",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOPRALNICA TROBAS, VULKANIZERSTVO IN PRODAJA GUM ALEŠ KOLAR S.P.",
+        "ulica": "Pri Brančurniku 11",
+        "mesto": "Prevalje",
+        "posta": "2391 Prevalje",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS IN TRGOVINA, GORAZD MURŠIČ S.P.",
+        "ulica": "Leše 116",
+        "mesto": "Leše",
+        "posta": "2391 Prevalje",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "B.D.BONAKO D.O.O.",
+        "ulica": "Gornji Dolič 78",
+        "mesto": "Gornji Dolič",
+        "posta": "2382 Mislinja",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "DREN PETER S.P.",
+        "ulica": "Podgorje 106 A",
+        "mesto": "Podgorje",
+        "posta": "2381 Podgorje pri Slovenj Gradcu",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KOGELNIK STANISLAV S.P.",
+        "ulica": "Otiški Vrh 147",
+        "mesto": "Otiški Vrh",
+        "posta": "2373 Šentjanž pri Dravogradu",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "RIFEL D.O.O.",
+        "ulica": "Perzonali 25",
+        "mesto": "Prevalje",
+        "posta": "2391 Prevalje",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "RUDOLF MARJAN S.P.",
+        "ulica": "Sejmarska ulica 1",
+        "mesto": "Vuzenica",
+        "posta": "2367 Vuzenica",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "ŠIRNIK GVIDO AVTOPRALNICA- PNEVMATIK CENTER IN GOSTINSTVO S.P.",
+        "ulica": "Mariborska cesta 41",
+        "mesto": "Radlje ob Dravi",
+        "posta": "2360 Radlje ob Dravi",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VZDRŽEVANJE IN POPRAVILO MOTORNIH VOZIL, STANISLAV LADINEK, S.P.",
+        "ulica": "Sv. Vid 29",
+        "mesto": "Sv. Vid",
+        "posta": "2367 Vuzenica",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOPRALNICA- PNEVMATIK CENTER IN GOSTINSTVO GVIDO ŠIRNIK S.P.PE HMELINA",
+        "ulica": "Koroška cesta 65 C",
+        "mesto": "Radlje ob Dravi",
+        "posta": "2360 Radlje ob Dravi",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SIMETRA D.O.O.AVTOCENTER KIA KOROŠKA",
+        "ulica": "Bukovska vas 3",
+        "mesto": "Bukovska vas",
+        "posta": "2373 Šentjanž pri Dravogradu",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULCO - FIDES D.O.O.",
+        "ulica": "Meža 127",
+        "mesto": "Dravograd",
+        "posta": "2370 Dravograd",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "VULKANIZERSTVO, BORIS KOZAMURNIK S.P.",
+        "ulica": "Bukovska vas 15",
+        "mesto": "Bukovska vas",
+        "posta": "2373 Šentjanž pri Dravogradu",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    }
+]

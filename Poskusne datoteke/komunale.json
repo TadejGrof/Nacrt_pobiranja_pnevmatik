@@ -1,0 +1,1022 @@
+[
+    {
+        "ime": "CERO Puconci d.o.o.",
+        "ulica": "Dolgovaške Gorice 166 B",
+        "mesto": "Lendava",
+        "posta": "9220 Lendava",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "CERO Puconci d.o.o.",
+        "ulica": "Vaneča 81 B",
+        "mesto": "Puconci",
+        "posta": "9201 Puconci",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Čisto Mesto Ptuj, d.o.o.",
+        "ulica": "Kidričeva cesta 75",
+        "mesto": "Kidričevo",
+        "posta": "4220 Škofja Loka",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Javne službe Ptuj",
+        "ulica": "Dornavska cesta 26",
+        "mesto": "Spuhlja",
+        "posta": "2250 Ptuj",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Infrastruktura Bled d.o.o.",
+        "ulica": "Rečiška cesta 2",
+        "mesto": "Bled",
+        "posta": "4260 Bled",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Javno podjetje Snaga d.o.o.",
+        "ulica": "Cesta dveh cesarjev 101",
+        "mesto": "Ljubljana",
+        "posta": "1000 Ljubljana",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JKP Dravograd d.o.o.",
+        "ulica": "Meža 10",
+        "mesto": "Dravograd",
+        "posta": "2370 Dravograd",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JKP Grosuplje d.o.o.",
+        "ulica": "Taborska cesta 3",
+        "mesto": "Grosuplje",
+        "posta": "1290 Grosuplje",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JKP JEKO-IN d.o.o.",
+        "ulica": "Cesta Franceta Prešerna 62",
+        "mesto": "Jesenice",
+        "posta": "4270 Jesenice",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JKP Komunala Ribnica d.o.o.",
+        "ulica": "Goriča vas 11 A",
+        "mesto": "Ribnica",
+        "posta": "1310 Ribnica",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JKP Log d.o.o.",
+        "ulica": "Poljana 1 C",
+        "mesto": "Prevalje",
+        "posta": "2391 Prevalje",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JKP Log d.o.o.",
+        "ulica": "Dobja vas 187",
+        "mesto": "Ravne na Koroškem",
+        "posta": "2390 Ravne na Koroškem",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JKP Logatec d.o.o.",
+        "ulica": "Tržaška cesta 27",
+        "mesto": "Logatec",
+        "posta": "1370 Logatec",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JKP PRODNIK d.o.o.",
+        "ulica": "Savska cesta 34",
+        "mesto": "Domžale",
+        "posta": "1230 Domžale",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JKP Radlje ob Dravi d.o.o.",
+        "ulica": "Mariborska cesta 3",
+        "mesto": "Radlje ob Dravi",
+        "posta": "2360 Radlje ob Dravi",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JKP Slovenj Gradec d.o.o.",
+        "ulica": "Pameče 177 A",
+        "mesto": "Slovenj Gradec",
+        "posta": "2380 Slovenj Gradec",
+        "regija": "KOROŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JKP Slovenske Konjice",
+        "ulica": "Prežigal 9",
+        "mesto": "Slovenske Konjice",
+        "posta": "3210 Slovenske Konjice",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP - Komunala Cerknica d.o.o.",
+        "ulica": "Notranjska cesta 44",
+        "mesto": "Cerknica",
+        "posta": "1380 Cerknica",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP - Komunala Cerknica d.o.o.",
+        "ulica": "Cesta Notranjskega odreda 46",
+        "mesto": "Lož",
+        "posta": "1386 Stari Trg pri Ložu",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP d.o.o., Komunala Kranj",
+        "ulica": "Cesta v Polico 43",
+        "mesto": "Cerklje",
+        "posta": "4207 Cerklje na Gorenjskem",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP d.o.o., Komunala Kranj",
+        "ulica": "Zgornje Jezersko",
+        "mesto": "Jezersko",
+        "posta": "4206 Zgornje Jezersko",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP d.o.o., Komunala Kranj",
+        "ulica": "Cesta na Okroglo 9",
+        "mesto": "Naklo",
+        "posta": "4202 Naklo",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP d.o.o., Komunala Kranj",
+        "ulica": "Partizanska ulica 34",
+        "mesto": "Šenčur",
+        "posta": "4208 Šenčur",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP d.o.o., Komunala Kranj",
+        "ulica": "Golnik",
+        "mesto": "Tenetiše",
+        "posta": "4000 Kranj",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP d.o.o., Komunala Kranj",
+        "ulica": "Savska loka 31",
+        "mesto": "Zarica",
+        "posta": "4000 Kranj",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP Komunala Koper d.o.o.",
+        "ulica": "Klanec 1",
+        "mesto": "Koper",
+        "posta": "6276 Pobegi",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP Komunala Laško d.o.o.",
+        "ulica": "Modrič",
+        "mesto": "Laško",
+        "posta": "3270 Laško",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP Komunala Radeče d.o.o.",
+        "ulica": "Titova ulica 107",
+        "mesto": "Radeče",
+        "posta": "1433 Radeče",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP Okolje Piran d.o.o.",
+        "ulica": "Arze 1 B",
+        "mesto": "Piran",
+        "posta": "6330 Portorož - Portorose",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP Komunala Črnomelj d.o.o.",
+        "ulica": "Belokranjska cesta 24 A",
+        "mesto": "Črnomelj",
+        "posta": "8340 Črnomelj",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JP Komunala Črnomelj d.o.o.",
+        "ulica": "Obrtna cona 8",
+        "mesto": "Semič",
+        "posta": "8333 Semič",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JPK d.o.o. Mozirje",
+        "ulica": "Praprotnikova ulica 36",
+        "mesto": "Mozirje",
+        "posta": "3330 Mozirje",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JPK Izola d.o.o.",
+        "ulica": "Industrijska cesta 8",
+        "mesto": "Izola",
+        "posta": "6310 Izola - Isola",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JPK Metlika d.o.o.",
+        "ulica": "Cesta XV. brigade 4",
+        "mesto": "Metlika",
+        "posta": "8330 Metlika",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JPK Trbovlje d.o.o.",
+        "ulica": "Savinjska cesta 11 A",
+        "mesto": "Trbovlje",
+        "posta": "1420 Trbovlje",
+        "regija": "ZASAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "JPKSP Litija d.o.o.",
+        "ulica": "Ponoviška cesta 15",
+        "mesto": "Litija",
+        "posta": "1270 Litija",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala d.o.o. Sevnica",
+        "ulica": "Naselje heroja Maroka 17",
+        "mesto": "Sevnica",
+        "posta": "8290 Sevnica",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala IDRIJA d.o.o.",
+        "ulica": "Idrija",
+        "mesto": "Idrija",
+        "posta": "5280 Idrija",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala IDRIJA d.o.o.",
+        "ulica": "Cerkno",
+        "mesto": "Cerkno",
+        "posta": "5282 Cerkno",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Kočevje, d.o.o.",
+        "ulica": "Tesarska ulica 10",
+        "mesto": "Kočevje",
+        "posta": "1330 Kočevje",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Kranjska Gora, d.o.o.",
+        "ulica": "Spodnje Rute 50",
+        "mesto": "Kranjska Gora",
+        "posta": "4282 Gozd Martuljek",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Nova Gorica d.d.",
+        "ulica": "Dobrovo",
+        "mesto": "Dobrovo",
+        "posta": "5212 Dobrovo",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Nova Gorica d.d.",
+        "ulica": "Miren",
+        "mesto": "Miren",
+        "posta": "5292 Renče",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Nova Gorica d.d.",
+        "ulica": "Cesta 25. junija 1 A",
+        "mesto": "Nova Gorica",
+        "posta": "5100 Nova Gorica",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Nova Gorica d.d.",
+        "ulica": "Branik",
+        "mesto": "Branik",
+        "posta": "5295 Branik",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Nova Gorica d.d.",
+        "ulica": "Stara Gora",
+        "mesto": "Stara Gora",
+        "posta": "5100 Nova Gorica",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Nova Gorica d.d.",
+        "ulica": "Renče",
+        "mesto": "Renče",
+        "posta": "5292 Renče",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Nova Gorica d.d.",
+        "ulica": "Cesta Goriške fronte 11",
+        "mesto": "Šempeter",
+        "posta": "3311 Šempeter",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Nova Gorica d.d.",
+        "ulica": "Kanal",
+        "mesto": "Kanal",
+        "posta": "5213 Kanal",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Nova Gorica d.d.",
+        "ulica": "Vrtojba",
+        "mesto": "Vrtojba",
+        "posta": "5100 Nova Gorica",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Novo mesto d.o.o., JP",
+        "ulica": "Leskovec 13",
+        "mesto": "Leskovec",
+        "posta": "8273 Leskovec",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Novo mesto d.o.o., JP",
+        "ulica": "Podbevškova ulica 12",
+        "mesto": "Novo mesto",
+        "posta": "8000 Novo mesto",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Radovljica d.o.o.",
+        "ulica": "Radovljica",
+        "mesto": "Radovljica",
+        "posta": "4240 Radovljica",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Slovenska Bistrica d.o.o.",
+        "ulica": "Leonova ulica 13",
+        "mesto": "Slovenska Bistrica",
+        "posta": "2310 Slovenska Bistrica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Tolmin JP d.d.",
+        "ulica": "Poljubinj 89 H",
+        "mesto": "Tolmin",
+        "posta": "5220 Tolmin",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Trebnje d.o.o.",
+        "ulica": "Hudeje 40",
+        "mesto": "Trebnje",
+        "posta": "8210 Trebnje",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Komunala Zagorje, d.o.o.",
+        "ulica": "Dolenja vas",
+        "mesto": "Zagorje ob Savi",
+        "posta": "1410 Zagorje ob Savi",
+        "regija": "ZASAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KOP Brežice d.d.",
+        "ulica": "Boršt",
+        "mesto": "Brežice",
+        "posta": "8263 Cerklje ob Krki",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KP Ilirska Bistrica",
+        "ulica": "Prešernova ulica 7",
+        "mesto": "Ilirska Bistrica",
+        "posta": "6250 Ilirska Bistrica",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KP Ormož d.o.o.",
+        "ulica": "Hardek 21 C",
+        "mesto": "Ormož",
+        "posta": "2270 Ormož",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KP Tržič d.o.o.",
+        "ulica": "Pristava",
+        "mesto": "Pristava",
+        "posta": "3253 Pristava",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KP Vrhnika d.d.",
+        "ulica": "Pot na Tojnice 40",
+        "mesto": "Vrhnika",
+        "posta": "1360 Vrhnika",
+        "regija": "OSREDNJESLOVENSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KSD d.o.o. Ajdovščina",
+        "ulica": "Dolga Poljana 1 I",
+        "mesto": "Ajdovščina",
+        "posta": "5271 Vipava",
+        "regija": "GORIŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KSP d.d. Sežana",
+        "ulica": "Pod kostanji 4",
+        "mesto": "Komen",
+        "posta": "6223 Komen",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KSP d.d. Sežana",
+        "ulica": "Partizanska cesta 2",
+        "mesto": "Sežana",
+        "posta": "6210 Sežana",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KSP d.d. Sežana",
+        "ulica": "Ob Dolu 17",
+        "mesto": "Kozina",
+        "posta": "6240 Kozina",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KSP KOSTAK d.d.",
+        "ulica": "Cesta 4. julija 134 A",
+        "mesto": "Krško",
+        "posta": "8270 Krško",
+        "regija": "SPODNJEPOSAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "KSP Ljutomer d.o.o.",
+        "ulica": "Ulica Rada Pušenjaka 9",
+        "mesto": "Ljutomer",
+        "posta": "9240 Ljutomer",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Loška Komunala d.d.",
+        "ulica": "Kidričeva cesta 43 A",
+        "mesto": "Škofja Loka",
+        "posta": "4220 Škofja Loka",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Občina Bohinj",
+        "ulica": "Rožna ulica 18",
+        "mesto": "Bohinjska Bistrica",
+        "posta": "4264 Bohinjska Bistrica",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Občina Gorenja vas-Poljane",
+        "ulica": "Poljanska cesta 87",
+        "mesto": "Gorenja vas",
+        "posta": "4224 Gorenja vas",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Občina Hoče- Slivnica",
+        "ulica": "Pohorska cesta 15",
+        "mesto": "Slivnica",
+        "posta": "2312 Slivnica",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Občina Rače- Fram",
+        "ulica": "Rače",
+        "mesto": "Rače-Fram",
+        "posta": "2327 Rače",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Občina Železniki",
+        "ulica": "Železniki",
+        "mesto": "Železniki",
+        "posta": "4228 Železniki",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Občina Žiri",
+        "ulica": "Žiri",
+        "mesto": "Žiri",
+        "posta": "4226 Žiri",
+        "regija": "GORENJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "OKP - JPKS Rogaška Slatina, d.o.o.",
+        "ulica": "Celjska cesta 12",
+        "mesto": "Rogaška Slatina",
+        "posta": "3250 Rogaška Slatina",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Publicus d.o.o.",
+        "ulica": "Neverke 56 X",
+        "mesto": "Pivka",
+        "posta": "6257 Pivka",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Publicus d.o.o.",
+        "ulica": "Jeršice 3",
+        "mesto": "Postojna",
+        "posta": "6230 Postojna",
+        "regija": "NOTRANJO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Publicus d.o.o.",
+        "ulica": "Dolenji Suhadol 7",
+        "mesto": "Brusnice",
+        "posta": "8321 Brusnice",
+        "regija": "JUGOVZHODNA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PUP Saubermacher Velenje d.d.",
+        "ulica": "Koroška cesta 37 B",
+        "mesto": "Velenje",
+        "posta": "3320 Velenje",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PUP Saubermacher Velenje d.d.",
+        "ulica": "Koroška cesta 37 B",
+        "mesto": "Velenje",
+        "posta": "3320 Velenje",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PUP Saubermacher Velenje d.d.",
+        "ulica": "Letuš 12",
+        "mesto": "Šmartno ob Paki",
+        "posta": "3327 Šmartno ob Paki",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "PUP Saubermacher Velenje d.d.",
+        "ulica": "Primorska cesta 8 A",
+        "mesto": "Šoštanj",
+        "posta": "3325 Šoštanj",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SAUBERMACHER Komunala d.o.o.",
+        "ulica": "Kopališka ulica 2",
+        "mesto": "Murska Sobota",
+        "posta": "9000 Murska Sobota",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SAUBERMACHER Komunala d.o.o.",
+        "ulica": "Cvetlična ulica 1",
+        "mesto": "Orehova vas",
+        "posta": "2312 Orehova vas",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SAUBERMACHER Komunala d.o.o. ZC Beltinci",
+        "ulica": "Mladinska ulica 2",
+        "mesto": "Beltinci",
+        "posta": "9231 Beltinci",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SAUBERMACHER Komunala d.o.o. ZC Lenart",
+        "ulica": "Spodnji Porčič 4 A",
+        "mesto": "Lenart v Slovenskih Goricah",
+        "posta": "2230 Lenart v Slovenskih Goricah",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SAUBERMACHER Komunala d.o.o. ZC Cankova",
+        "ulica": "Korovci 47",
+        "mesto": "Cankova",
+        "posta": "9261 Cankova",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SAUBERMACHER Komunala d.o.o. ZC Grad",
+        "ulica": "Vidonci",
+        "mesto": "Vidonci",
+        "posta": "9264 Grad",
+        "regija": "POMURSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Simbio d.o.o",
+        "ulica": "Braslovče",
+        "mesto": "Braslovče",
+        "posta": "3314 Braslovče",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Simbio d.o.o",
+        "ulica": "Bukovžlak 30",
+        "mesto": "Celje",
+        "posta": "3000 Celje",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Simbio d.o.o",
+        "ulica": "Polzela",
+        "mesto": "Polzela",
+        "posta": "3313 Polzela",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Simbio d.o.o",
+        "ulica": "Prebold",
+        "mesto": "Prebold",
+        "posta": "3312 Prebold",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Simbio d.o.o",
+        "ulica": "Celjska cesta 55",
+        "mesto": "Vojnik",
+        "posta": "3212 Vojnik",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Simbio d.o.o",
+        "ulica": "Vransko 66",
+        "mesto": "Vransko",
+        "posta": "3305 Vransko",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "Simbio d.o.o",
+        "ulica": "Ulica Nade Cilenšek 5",
+        "mesto": "Žalec",
+        "posta": "3310 Žalec",
+        "regija": "SAVINJSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SNAGA JP Maribor d.o.o.",
+        "ulica": "Lovrenc na Pohorju",
+        "mesto": "Lovrenc na Pohorju",
+        "posta": "2344 Lovrenc na Pohorju",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SNAGA JP Maribor d.o.o.",
+        "ulica": "Streliška cesta",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SNAGA JP Maribor d.o.o.",
+        "ulica": "Plinarniška ulica 31",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SNAGA JP Maribor d.o.o.",
+        "ulica": "Lahova ulica",
+        "mesto": "Maribor",
+        "posta": "2000 Maribor",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SNAGA JP Maribor d.o.o.",
+        "ulica": "Ruše",
+        "mesto": "Ruše",
+        "posta": "2342 Ruše",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SNAGA JP Maribor d.o.o.",
+        "ulica": "Zgornja Kungota",
+        "mesto": "Zgornja Kungota",
+        "posta": "2201 Kungota",
+        "regija": "PODRAVSKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    }
+]

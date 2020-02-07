@@ -1,0 +1,102 @@
+[
+    {
+        "ime": "AMI - GT D.O.O.",
+        "ulica": "Ulica Mirka Pirca 1",
+        "mesto": "Sežana",
+        "posta": "6210 Sežana",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOLAZAR, LIČARSTVO IN DRUGE STORITVE D.O.O.",
+        "ulica": "Vanganel 30 A",
+        "mesto": "Vanganel",
+        "posta": "6000 Koper - Capodistria",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AVTOSERVIS VULTES ALEŠ BRNE S.P.",
+        "ulica": "Križ 238",
+        "mesto": "Križ",
+        "posta": "6210 Sežana",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "AXLE D.O.O.",
+        "ulica": "Kolodvorska cesta 7",
+        "mesto": "Koper - Capodistria",
+        "posta": "6000 Koper - Capodistria",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "OBALA CENTER VULKANIZERSTVO, FRANKO RAŽMAN S.P.",
+        "ulica": "Dolinska cesta 1 B",
+        "mesto": "Koper - Capodistria",
+        "posta": "6000 Koper - Capodistria",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SODA MATJAŽ SODRŽNIK S.P.",
+        "ulica": "Industrijska cesta 4 F",
+        "mesto": "Izola - Isola",
+        "posta": "6310 Izola - Isola",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "STARC DORJAN S.P.",
+        "ulica": "Istrska ulica 30",
+        "mesto": "Kozina",
+        "posta": "6240 Kozina",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "SUNSIDE TUNING ALEŠ VEŽNAVER S.P.",
+        "ulica": "Šmarje 61",
+        "mesto": "Šmarje",
+        "posta": "6274 Šmarje",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "T & P CARS, PROIZVODNO PODJETJE, D.O.O.,",
+        "ulica": "Povžane 1",
+        "mesto": "Povžane",
+        "posta": "6242 Materija",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    },
+    {
+        "ime": "TAGROS D.O.O.",
+        "ulica": "Vojkovo nabrežje 38",
+        "mesto": "Koper - Capodistria",
+        "posta": "6000 Koper - Capodistria",
+        "regija": "OBALNO-KRAŠKA",
+        "koordinate": null,
+        "pot": null,
+        "center": 0
+    }
+]
