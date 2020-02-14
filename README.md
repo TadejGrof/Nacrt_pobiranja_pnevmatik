@@ -1,11 +1,10 @@
 # Nacrt pobiranja pnevmatik
 
-Naloga je nastala kot pomoč študentu menedžmenta na koperski fakulteti pri diplomski nalogi.
-Ideja diplomske naloge je vzpostaviti nov inovativen nacrt pobiranja rabljenih pnevmatik na območju Slovenije.
+Naloga je nastala kot pomoč študentu Managementa na koprski fakulteti pri izdelavi diplomske naloge. Tematika diplomske naloge se loteva pojma povratne logistike na področju odpadnih pnevmatik ter možnosti zaslužka, kjer bi za dosega tega bilo potrebno vzpostaviti nov inovativen načrt pobiranja rabljenih pnevmatik na območju Slovenije.
 
-Nalogo sem začel z podatki o vseh vulkanizerjih/servisih, ki jih je študent dobil iz ajpesa ter podatki o zbirnih centrih podjetja slopak d.o.o.
+Naloge sem se lotil s pomočjo predanih podatkov oziroma seznamom kontaktnih podatkov vseh pravnih oseb, ki se ukvarjajo s zamenjavo pnevmatik - vulkanizerji/avtomobilski servisi, ki ga je študent dobil iz portala Ajpes ter dodatno še podatke o zbirnih centrih podjetja Slopak, d.o.o., kjer se tudi nahajajo odpadne pnevmatike.
 
-Podatki so vsebovali imena, naslove, poštne številke ter delno regije
+Dobljeni podatki so vsebovali imena, naslove, poštne številke ter delno regije
 
 Podatke sem prejel v txt obliki, vendar ker so bili pomankljivi sem jih moral dopolniti. Na primer vsak vulkanizer je imel podatek o regiji medtem ko zbirni centri tega podatka niso imeli, zato sem analiziral povezave med poštnimi številkami in regijami ter za vsak zbirni center na podlagi številke določil pripadajočo regijo. 
 
@@ -48,7 +47,7 @@ Za poskus delovanja je potrebo naloziti selenium ter firefox,pognati sktipto. V 
 main('Poskusne_datoteke/10_podjetij.json')
 
 
-## Zaključek
+## Analiza:
 
 Analiza se nahaja v jupyterjevem notebooku nacrt_pobiranja_pnevmatik.ipynb.
 
